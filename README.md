@@ -9,4 +9,15 @@ A lightweight, efficient Bash script designed to provide an instant overview of 
 -> Memory Snapshot: Shows total, used, and free system memory.
 
 -> Disk Monitoring: Provides a clean, filtered view of your main partision storage.
-##Installation
+## Installation
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Shar0n-sr/Linux_System_Monitor.git
+
+2. Navigate to the direcotory:
+      cd Linux_System_Monitor
+3. Make the script executable:
+      chmod +x system_monitor.sh
+## How to Run
+Once installed, simply execute the script in your terminal:
+      ./system_monitor.sh
