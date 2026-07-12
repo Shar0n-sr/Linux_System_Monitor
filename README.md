@@ -15,9 +15,12 @@ A lightweight, efficient Bash script designed to provide an instant overview of 
    git clone https://github.com/Shar0n-sr/Linux_System_Monitor.git
 
 2. Navigate to the direcotory:
-      cd Linux_System_Monitor
-3. Make the script executable:
-      chmod +x system_monitor.sh
+   ```bash
+   cd Linux_System_Monitor
+4. Make the script executable:
+   ```bash
+   chmod +x system_monitor.sh
 ## How to Run
 Once installed, simply execute the script in your terminal:
-      ./system_monitor.sh
+```bash
+./system_monitor.sh
