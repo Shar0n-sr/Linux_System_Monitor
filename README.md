@@ -9,3 +9,4 @@ A lightweight, efficient Bash script designed to provide an instant overview of 
 -> Memory Snapshot: Shows total, used, and free system memory.
 
 -> Disk Monitoring: Provides a clean, filtered view of your main partision storage.
+##Installation
